@@ -23,3 +23,4 @@ usethis::use_pkgdown()
 
 # CI
 usethis::use_github_action_check_release()
+usethis::use_pkgdown_github_pages()
