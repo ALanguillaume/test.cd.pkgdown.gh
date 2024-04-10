@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ALanguillaume/test.cd.pkgdown.gh/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ALanguillaume/test.cd.pkgdown.gh/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/ALanguillaume/test.cd.pkgdown.gh/branch/main/graph/badge.svg)](https://app.codecov.io/gh/ALanguillaume/test.cd.pkgdown.gh?branch=main)
 <!-- badges: end -->
 
 The goal of test.cd.pkgdown.gh is to test continous deployment of a
