@@ -1,8 +1,8 @@
-pandoc: 2.19.2
+pandoc: 3.1.11
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2023-05-08T11:06Z
+last_built: 2024-04-10T13:22Z
 urls:
   reference: https://alanguillaume.github.io/test.cd.pkgdown.gh/reference
   article: https://alanguillaume.github.io/test.cd.pkgdown.gh/articles
